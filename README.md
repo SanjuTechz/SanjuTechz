@@ -8,7 +8,7 @@ I'm an IT undergraduate passionate about full-stack development. I love building
 - **Tools:** Git, Postman, IntelliJ IDEA, VS Code
 
 ### 🚀 Featured Projects
-- **[Sisira Construction](link-to-repo)** — A custom web platform for a construction company to showcase projects and manage client inquiries.
+- **[Folder Organizer]((https://github.com/SanjuTechz-DevSoft/folder-organizer))** — A custom web platform for a construction company to showcase projects and manage client inquiries.
 
 ### 📫 How to reach me
 - LinkedIn: [www.linkedin.com/in/ushan-sanjula-b97023394]
