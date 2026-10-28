@@ -3,12 +3,13 @@
 I'm an IT undergraduate passionate about full-stack development. I love building real-world applications that solve problems.
 
 ### 🛠️ Tech Stack
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend:** Java, Spring Boot, PostgreSQL
-- **Tools:** Git, Postman, IntelliJ IDEA, VS Code
+- **Frontend:** React + TypeScript (TSX) + Vite + Bootstrap + custom CSS.
+- **Backend:** Electron + Node.js + TypeScript + IPC + Node.js filesystem APIs.
+- **build tools:** npm + TypeScript compiler + Vite.
+- **IDE:** IntelliJ IDEA, VS Code
 
 ### 🚀 Featured Projects
-- **[Folder Organizer](https://github.com/SanjuTechz-DevSoft/folder-organizer)** — A custom command-line utility built with Node.js that automatically organizes a messy directory (like a Downloads folder) by moving files into categorized subfolders (e.g., Documents, Images, Code).
+- **[Folder Organizer](https://github.com/SanjuTechz-DevSoft/folder-organizer)** — A Windows-first file organizer starter built with React, TypeScript, Bootstrap 5, Electron, Vite, and electron-builder.
 
 ### 📫 How to reach me
 - LinkedIn: [www.linkedin.com/in/ushan-sanjula-b97023394](https://www.linkedin.com/in/ushan-sanjula-b97023394)
